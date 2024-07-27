@@ -39,7 +39,7 @@ background: linear-gradient(126deg, rgba(67,0,112,1) 0%, rgba(23,30,93,1) 50%, r
     font-family: "Kalam", cursive;
 }
 .nav-logo img{
-    margin: 20px;
+    margin-top: 20px;
     width: 150px;
     height: 80px
 }
